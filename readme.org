@@ -1,0 +1,14 @@
+#+title: DES tools
+
+Command line tools for Discrete Event systems
+
+* Dependencies
+- dot2tex
+- latex
+
+* Tools
+- petriml2dot :: convert from petriml used in PIPE to dot graphviz file with petri net flavor
+- dot2automata :: Create Automata tikz file and/or pdf using dot2tex and latex.
+- dot2petri :: Create Petri Net tikz file and/or pdf using dot2tex and latex.
+
+* graphviz with petri net flavor
